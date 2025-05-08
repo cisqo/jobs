@@ -1,6 +1,6 @@
 # Welcome to Marinade.finance
 
-Hi! [Marinade.finance](https://marinade.finance) is a non-custodial liquid staking solution built on Solana blockchain. We're providing users with an easy way to get the most ouf of their staking while their funds stay always fully liquid (no lockup periods).
+Hi! [Marinade.finance](https://marinade.finance) is a non-custodial liquid staking solution built on Solana blockchain. We're providing users with an easy way to get the most out of their staking while their funds stay always fully liquid (no lockup periods).
 
 
 ## Achievements
@@ -11,7 +11,7 @@ Hi! [Marinade.finance](https://marinade.finance) is a non-custodial liquid staki
 
 ## Who we are
 
-At this point we are team of 3 people fully dedicated to the project + several contractors helping us along the way. We're based in central/eastern Europe and work remotely.
+At this point we are a team of 3 people fully dedicated to the project + several contractors helping us along the way. We're based in central/eastern Europe and work remotely.
 
 ## Who we're looking for
 
@@ -26,7 +26,7 @@ We've received a grant and are getting prepared for a seed round, so we're ready
 
 Obvious perks:
 - remote work
-- be part of rapidly growing ecosystem
+- be part of a rapidly growing ecosystem
 - get full support and mentorship directly from Solana
 - big influence over the overall architecture and next product steps
 
